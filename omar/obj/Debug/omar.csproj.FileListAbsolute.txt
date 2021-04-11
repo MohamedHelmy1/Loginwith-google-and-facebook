@@ -1,0 +1,112 @@
+F:\Projects\omar\omar\bin\omar.dll.config
+F:\Projects\omar\omar\bin\omar.dll
+F:\Projects\omar\omar\bin\omar.pdb
+F:\Projects\omar\omar\bin\roslyn\csc.exe
+F:\Projects\omar\omar\bin\roslyn\csc.exe.config
+F:\Projects\omar\omar\bin\roslyn\csc.rsp
+F:\Projects\omar\omar\bin\roslyn\csi.exe
+F:\Projects\omar\omar\bin\roslyn\csi.exe.config
+F:\Projects\omar\omar\bin\roslyn\csi.rsp
+F:\Projects\omar\omar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Projects\omar\omar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Projects\omar\omar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Projects\omar\omar\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Projects\omar\omar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Projects\omar\omar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Projects\omar\omar\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Projects\omar\omar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Projects\omar\omar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Projects\omar\omar\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Projects\omar\omar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Projects\omar\omar\bin\roslyn\System.AppContext.dll
+F:\Projects\omar\omar\bin\roslyn\System.Collections.Immutable.dll
+F:\Projects\omar\omar\bin\roslyn\System.Console.dll
+F:\Projects\omar\omar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Projects\omar\omar\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Projects\omar\omar\bin\roslyn\System.IO.Compression.dll
+F:\Projects\omar\omar\bin\roslyn\System.IO.FileSystem.dll
+F:\Projects\omar\omar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Projects\omar\omar\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Projects\omar\omar\bin\roslyn\System.IO.Pipes.dll
+F:\Projects\omar\omar\bin\roslyn\System.Reflection.Metadata.dll
+F:\Projects\omar\omar\bin\roslyn\System.Security.AccessControl.dll
+F:\Projects\omar\omar\bin\roslyn\System.Security.Claims.dll
+F:\Projects\omar\omar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Projects\omar\omar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Projects\omar\omar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Projects\omar\omar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Projects\omar\omar\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Projects\omar\omar\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Projects\omar\omar\bin\roslyn\System.ValueTuple.dll
+F:\Projects\omar\omar\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Projects\omar\omar\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Projects\omar\omar\bin\roslyn\System.Xml.XPath.dll
+F:\Projects\omar\omar\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Projects\omar\omar\bin\roslyn\vbc.exe
+F:\Projects\omar\omar\bin\roslyn\vbc.exe.config
+F:\Projects\omar\omar\bin\roslyn\vbc.rsp
+F:\Projects\omar\omar\bin\roslyn\VBCSCompiler.exe
+F:\Projects\omar\omar\bin\roslyn\VBCSCompiler.exe.config
+F:\Projects\omar\omar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Projects\omar\omar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Projects\omar\omar\obj\Debug\omar.csprojAssemblyReference.cache
+F:\Projects\omar\omar\obj\Debug\omar.csproj.CoreCompileInputs.cache
+F:\Projects\omar\omar\obj\Debug\omar.csproj.CopyComplete
+F:\Projects\omar\omar\obj\Debug\omar.dll
+F:\Projects\omar\omar\obj\Debug\omar.pdb
+F:\Projects\login with gmail and facebook\omar\bin\omar.dll.config
+F:\Projects\login with gmail and facebook\omar\bin\omar.dll
+F:\Projects\login with gmail and facebook\omar\bin\omar.pdb
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\csc.exe
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\csc.exe.config
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\csc.rsp
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\csi.exe
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\csi.exe.config
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\csi.rsp
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\System.AppContext.dll
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\System.Collections.Immutable.dll
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\System.Console.dll
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\System.IO.Compression.dll
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\System.IO.FileSystem.dll
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\System.IO.Pipes.dll
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\System.Reflection.Metadata.dll
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\System.Security.AccessControl.dll
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\System.Security.Claims.dll
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\System.ValueTuple.dll
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\System.Xml.XPath.dll
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\vbc.exe
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\vbc.exe.config
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\vbc.rsp
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\VBCSCompiler.exe
+F:\Projects\login with gmail and facebook\omar\bin\roslyn\VBCSCompiler.exe.config
+F:\Projects\login with gmail and facebook\omar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Projects\login with gmail and facebook\omar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Projects\login with gmail and facebook\omar\obj\Debug\omar.csprojAssemblyReference.cache
+F:\Projects\login with gmail and facebook\omar\obj\Debug\omar.csproj.CoreCompileInputs.cache
+F:\Projects\login with gmail and facebook\omar\obj\Debug\omar.csproj.CopyComplete
+F:\Projects\login with gmail and facebook\omar\obj\Debug\omar.dll
+F:\Projects\login with gmail and facebook\omar\obj\Debug\omar.pdb
